@@ -14,4 +14,4 @@ app.add_middleware(
 
 @app.get("/api/hello")
 def hello():
-    return {"message": "Hello from Python backend!"}
+    return {"message": "Hello Vinoth!!!!! Welcome to first web hosting!!!!"}
